@@ -13,15 +13,15 @@ LearnPress Prerequisites is an add-on for LearnPress allow you to set prerequisi
 == Description ==  
 [LearnPress](https://wordpress.org/plugins/learnpress) Courses Prerequisites is an add-on for LearnPress allow you to set prerequisite courses for a certain course in a LearnPress site.
 
-**Other free add-ons for LearnPress are available in WordPress:**  
+**Free add-on for LearnPress WordPress LMS Plugin:**
 
-- <a href="https://wordpress.org/plugins/learnpress-wishlist/" target="_blank">LearnPress Wishlist</a> - add courses to a wishlist for students.  
-- <a href="https://wordpress.org/plugins/learnpress-course-review/" target="_blank">LearnPress Course Review</a> - review course for enrolled students.  
-- <a href="https://wordpress.org/plugins/learnpress-import-export/" target="_blank">LearnPress Import Export</a> - export or import course or courses out-of-box.  
+- <a href="https://wordpress.org/plugins/learnpress-wishlist" target="_blank">LearnPress Wishlist</a> - add courses to a wishlist for students.
+- <a href="https://wordpress.org/plugins/learnpress-course-review" target="_blank">LearnPress Course Review</a> - review course for enrolled students.
+- <a href="https://wordpress.org/plugins/learnpress-import-export" target="_blank">LearnPress Import Export</a> - export or import course or courses out-of-box.
 - <a href="https://wordpress.org/plugins/learnpress-bbpress" target="_blank">LearnPress bbPress</a> - add bbPress Forum support for LearnPress.  
-- <a href="https://wordpress.org/plugins/learnpress-buddypresss" target="_blank">LearnPress BuddyPress</a> - add BuddyPress support for LearnPress.  
+- <a href="https://wordpress.org/plugins/learnpress-buddypress" target="_blank">LearnPress BuddyPress</a> - add BuddyPress support for LearnPress.
 
-**Premium Plugins (add-ons) for LearnPress WordPress LMS Plugin:**
+**Premium add-ons for LearnPress WordPress LMS Plugin:**
 
 - <a href="http://thimpress.com/shop/certificates-add-on-for-learnpress/" target="_blank">Certificates add-on for LearnPress</a> - adding drag & drop certificates builder as well as selecting designed certificate for each LMS course, your student will get particular certificate when they finished a course.  
 - <a href="http://thimpress.com/shop/co-instructors-add-on-for-learnpress/" target="_blank">Co-instructors add-on for LearnPress</a> - multiple instructors support for each LMS course.  
