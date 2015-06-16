@@ -13,7 +13,7 @@ LearnPress Prerequisites is an add-on for LearnPress allow you to set prerequisi
 == Description ==  
 [LearnPress](https://wordpress.org/plugins/learnpress) Courses Prerequisites is an add-on for LearnPress allow you to set prerequisite courses for a certain course in a LearnPress site.
 
-**Free add-on for LearnPress WordPress LMS Plugin:**
+**Free add-ons for LearnPress WordPress LMS Plugin:**
 
 - <a href="https://wordpress.org/plugins/learnpress-wishlist" target="_blank">LearnPress Wishlist</a> - add courses to a wishlist for students.
 - <a href="https://wordpress.org/plugins/learnpress-course-review" target="_blank">LearnPress Course Review</a> - review course for enrolled students.
