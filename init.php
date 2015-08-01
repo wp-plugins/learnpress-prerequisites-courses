@@ -21,14 +21,14 @@ if ( !defined( 'ABSPATH' ) ) {
 function learn_press_prerequisite_add_on( $meta_boxes ) {
 
     $prerequisite = array(
-        'name'          =>  __( 'Prerequisite Courses', 'learn_press' ),
+        'name'          =>  __( 'Prerequisite Courses', 'learnpress_prerequisites' ),
         'id'            =>  "_lpr_course_prerequisite",
         'type'          =>  'post',
         'post_type'     =>  'lpr_course',
         'field_type'    =>  'select_advanced',
         'multiple'      =>  true,
         'description'   =>  'Course you have to finish before you can enroll to this course',
-        'placeholder'   =>  __( 'Course Prerequisite', 'learn_press' ),
+        'placeholder'   =>  __( 'Course Prerequisite', 'learnpress_prerequisites' ),
         'std'           =>  ''
     );
 
